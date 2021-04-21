@@ -7,3 +7,5 @@ RECEPTA DEL PASTIS
 - sucre
 - nata
 - cirera confitada
+
+calories: 4800 kcal
