@@ -5,4 +5,5 @@ RECEPTA DEL PASTIS
 - mantega
 - sal
 - sucre
-- crema
+- nata
+- cirera confitada
