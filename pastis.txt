@@ -8,4 +8,8 @@ RECEPTA DEL PASTIS
 - nata
 - cirera confitada
 
+<<<<<<< HEAD
 valoracio: muy weno
+=======
+calories: 4800 kcal
+>>>>>>> 62e2aa4a768748aac1fa866ce1ec07953bade50a
