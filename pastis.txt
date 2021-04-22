@@ -5,6 +5,7 @@ RECEPTA DEL PASTIS
 - mantega
 - sal
 - sucre
+<<<<<<< HEAD
 - nata
 - cirera confitada
 
@@ -13,3 +14,7 @@ valoracio: muy weno
 =======
 calories: 4800 kcal
 >>>>>>> 62e2aa4a768748aac1fa866ce1ec07953bade50a
+=======
+- crema
+- poma
+>>>>>>> fix-pastis
